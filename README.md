@@ -16,4 +16,5 @@ O objetivo deste projeto foi aprender conceitos básicos sobre html5 e css3.
 ## Detalhes do projeto
 
 Esta pagina foi desenvolvida quando participei do desafio da Rocketseat de 21 dias de código, onde o objetivo era codar todos os dias por 21 dias algo diferente! Este foi o desafio do segundo dia: criar uma pagina customizada do "Hello world"!
-Link para o desafio: https://21-dias-de-codigo-rocketseat.vercel.app/
+
+<p><em>Abra o link e passe o mouse sobre o "hello world" e observe o efeito!<em></p>

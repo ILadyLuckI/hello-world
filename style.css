@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://pa1.narvii.com/6735/0ccea0aeacaa685ee62cef00793bd53fb89fadcb_hq.gif);
+    background-size: 30vh;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+p{
+    padding: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: blink;
+    font-size: 50px;
+    text-shadow: 2px 2px rgb(146, 144, 144);
+}
+
+p span{
+    color: rgb(181, 12, 219)
+}
+
+.world:hover{
+    transition: all 3s ease;
+    transform: rotate(360deg);
+}
+
+.text-footer{  
+    position: absolute center;  
+    padding: 0px;
+    text-align: center;   
+    color: white; 
+    padding-top: 500px;
+}
+
+.link{
+    color: white;
+}

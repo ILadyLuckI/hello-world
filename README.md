@@ -6,7 +6,7 @@ O objetivo deste projeto foi aprender conceitos básicos sobre html5 e css3.
 | -------------  | --- |
 | :sparkles: Daiana        | **Pagina simples para Hello world**
 | :label: Tecnologias | html5, css3
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://chipper-twilight-71507d.netlify.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://user-images.githubusercontent.com/69736274/217399586-8699f1cb-3113-47da-8b71-c2cb8b46aaac.gif#vitrinedev)

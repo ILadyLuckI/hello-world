@@ -1,6 +1,6 @@
 # Hello world
 
-O objetivo deste projeto foi aprender conceitos básicos sobre html e css.
+O objetivo deste projeto foi aprender conceitos básicos sobre html5 e css3.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
